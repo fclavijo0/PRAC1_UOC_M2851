@@ -17,8 +17,9 @@ Si bien en la plataforma se puede consultar la información a través varios cri
 - ALEJANDRO MEDINA UICAB (amedinau)
 
 **ARCHIVOS QUE HACEN PARTE DE LA ENTREGA**
-- xxx
-- DOI de Zenodo del dataset generado.
+- practica_01.py
+- out.csv
+- Desarrollo.ipynb
 
 **RECURSOS UTILIZADOS EN EL DESARROLLO DE LA PRÁCTICA**
 - Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
