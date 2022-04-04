@@ -1,6 +1,6 @@
 **PRACTICA 1 - Web scraping**
 
-***Título: Dataset de los grupos de investigación colombianos con categoría A y que hacen parte de los Programas Nacionales de Ciencia, Tecnología e Innovación en Salud e Ingeniería.***
+***Título: Dataset de los grupos de investigación colombianos con categoría A y A1 y que hacen parte de los Programas Nacionales de Ciencia, Tecnología e Innovación en Salud e Ingeniería.***
 
 Este repositorio se crea como parte de una práctica de la asignatura M2.851 - Tipología y ciclo de vida de los datos aula 1, de la UOC, en el Máster de Ciencia de Datos. En la cual se elaborará un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar herramientas de extracción de datos.
 
@@ -10,7 +10,7 @@ En Colombia, el Ministerio de Ciencia Tecnología e Innovación (Minciencias) re
 
 Una de estas plataformas fue escogida para el desarrollo de esta práctica (https://scienti.minciencias.gov.co/ciencia-war/) en ésta se puede acceder a las bases de datos que recogen toda la información sobre currículos de investigadores (CvLAC) y hojas de vida de grupos de investigación (GrupLAC) colombianos.
 
-Si bien en la plataforma se puede consultar la información a través varios criterios, hay búsquedas que no se pueden realizar de forma sencilla e implica un proceso tedioso de filtrado manual. A partir de estas dificultades se decidió centrar esta práctica en: recaudar la información concerniente a los grupos de investigación que tengan categoía A y que hagan parte de los Programas Nacionales de Ciencia, Tecnología e Innovación en Salud y en Ingeniería, sin importar si estas son la temática principal o secundaria del grupo. Información consultada en esta pagina web: https://scienti.minciencias.gov.co/ciencia-war/busquedaConteoGrupoXProgramaNacional.do?by=primario&codPrograma=2
+Si bien en la plataforma se puede consultar la información a través varios criterios, hay búsquedas que no se pueden realizar de forma sencilla e implica un proceso tedioso de filtrado manual. A partir de estas dificultades se decidió centrar esta práctica en: recaudar la información concerniente a los grupos de investigación que tengan categoía A y A1 y que hagan parte de los Programas Nacionales de Ciencia, Tecnología e Innovación en Salud y en Ingeniería, sin importar si estas son la temática principal o secundaria del grupo. Información consultada en esta pagina web: https://scienti.minciencias.gov.co/ciencia-war/busquedaConteoGrupoXProgramaNacional.do?by=primario&codPrograma=2
 
 **GRUPO DE LA PRÁCTICA**
 - FEDERICO CLAVIJO LÓPEZ (fclavijo0)
