@@ -21,6 +21,8 @@ Si bien en la plataforma se puede consultar la información a través varios cri
 - Salida.csv
 - Desarrollo.ipynb
 
+Link al video: https://drive.google.com/drive/folders/1qtMCDjFYd46A-r2z0ZXQlq6_HxfYWuVf?usp=sharing
+
 **RECURSOS UTILIZADOS EN EL DESARROLLO DE LA PRÁCTICA**
 - Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
 - Masip, D. (2019) El lenguaje Python. Editorial UOC.
