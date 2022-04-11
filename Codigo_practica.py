@@ -1,4 +1,5 @@
-# Descripción:
+# Título: Dataset de los grupos de investigación colombianos con categoría A y A1 y que hacen parte de los Programas Nacionales de Ciencia, Tecnología e Innovación en Salud e Ingeniería. 
+# Descripción: Este repositorio se crea como parte de una práctica de la asignatura M2.851 - Tipología y ciclo de vida de los datos aula 1, de la UOC, en el Máster de Ciencia de Datos. En la cual se elaborará un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar herramientas de extracción de datos.
 # Autores
 
 import requests
