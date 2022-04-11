@@ -17,9 +17,9 @@ Si bien en la plataforma se puede consultar la información a través varios cri
 - ALEJANDRO MEDINA UICAB (amedinau)
 
 **ARCHIVOS QUE HACEN PARTE DE LA ENTREGA**
-- Codigo_practica.py
-- Salida.csv
-- Desarrollo.ipynb
+- Codigo_practica.py - Corresponde al documento que contiene el código que realiza el web scraping a la página seleccionada.
+- Salida.csv - Corresponde al documento de salida del proceso de web scraping que contiene los datos recabados de la página seleccionada.
+- Desarrollo.ipynb - Corresponde al documento en formato ipynb y PDF que contiene las respuestas a las preguntas planteadas en la práctica 
 
 Link al video: https://drive.google.com/drive/folders/1qtMCDjFYd46A-r2z0ZXQlq6_HxfYWuVf?usp=sharing
 El dataset en Zenodo y el código DOI es: 10.5281/zenodo.6441181 Link: https://doi.org/10.5281/zenodo.6441181
