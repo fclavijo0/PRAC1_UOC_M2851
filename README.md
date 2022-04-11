@@ -22,6 +22,7 @@ Si bien en la plataforma se puede consultar la información a través varios cri
 - Desarrollo.ipynb
 
 Link al video: https://drive.google.com/drive/folders/1qtMCDjFYd46A-r2z0ZXQlq6_HxfYWuVf?usp=sharing
+El dataset en Zenodo y el código DOI es: 10.5281/zenodo.6441181 Link: https://doi.org/10.5281/zenodo.6441181
 
 **RECURSOS UTILIZADOS EN EL DESARROLLO DE LA PRÁCTICA**
 - Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
