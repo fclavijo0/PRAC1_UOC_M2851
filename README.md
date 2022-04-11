@@ -17,8 +17,8 @@ Si bien en la plataforma se puede consultar la información a través varios cri
 - ALEJANDRO MEDINA UICAB (amedinau)
 
 **ARCHIVOS QUE HACEN PARTE DE LA ENTREGA**
-- practica_01.py
-- out.csv
+- Codigo_practica.py
+- Salida.csv
 - Desarrollo.ipynb
 
 **RECURSOS UTILIZADOS EN EL DESARROLLO DE LA PRÁCTICA**
